@@ -41,3 +41,4 @@ class game {
 	
 	
 }//Luokka game päättyy tähän
+//Roosan testi
